@@ -1,2 +1,1 @@
-# Project_UTSComputerVision
-Project UTS Computer Vision
+A video classification project using the UCF50 dataset to recognize human activities from video sequences. This project focuses on two activity categories, Playing Violin and Horse Race, which represent visually distinct activities and are classified using a deep learning model.
